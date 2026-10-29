@@ -16,7 +16,7 @@ Use numeric behaviour and spending fields such as age, income, household childre
 
 Standardise the selected features with StandardScaler so that larger-scale variables do not dominate distance calculations. Fit K-Means models for cluster counts from 2 through 8 (or fewer for smaller datasets), using a fixed random seed. Select the candidate with the highest silhouette score.
 
-The selected score is one diagnostic, not proof that the segments are objectively correct. Compare other cluster counts and inspect interpretability before finalising a business narrative.
+After selecting a candidate cluster count, review segment profiles and interpretability before finalising a business narrative.
 
 ## 5. Profile and visualise
 
