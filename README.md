@@ -1,8 +1,9 @@
 # Customer Segmentation & Business Strategy
 
-An end-to-end customer analytics project using Python, Pandas, and unsupervised machine learning to identify behaviour-based customer groups and translate them into business actions.
+A customer segmentation project using marketing campaign data to prepare customer features, scale selected behaviour and spending variables, apply K-Means clustering, and profile groups by demographics, purchases, channels and campaign responses. The goal is to translate observed segments into practical marketing-targeting and retention opportunities.
 
 ## Architecture Overview
+
 ```mermaid
 flowchart TD
     A[Customer marketing CSV] --> B[Inspect and clean data]
