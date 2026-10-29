@@ -2,8 +2,7 @@
 
 An end-to-end customer analytics project using Python, Pandas, and unsupervised machine learning to identify behaviour-based customer groups and translate them into business actions.
 
-## Architecture overview
-
+## Architecture Overview
 ```mermaid
 flowchart TD
     A[Customer marketing CSV] --> B[Inspect and clean data]
@@ -58,7 +57,7 @@ Outputs are written to `outputs/`, which is excluded from version control.
 
 ## Methods
 
-Pandas-based cleaning and feature engineering, StandardScaler, K-Means clustering with silhouette-score comparison, cluster profiling, and Matplotlib/Seaborn visualisations.
+A customer segmentation project using marketing campaign data to prepare customer features, scale selected behaviour and spending variables, apply K-Means clustering, and profile groups by demographics, purchases, channels and campaign responses. The goal is to translate observed segments into practical marketing-targeting and retention opportunities.
 
 ## Using the segments
 
