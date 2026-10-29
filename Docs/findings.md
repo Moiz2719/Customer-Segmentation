@@ -1,7 +1,5 @@
 # Findings status
 
-No project-specific findings are asserted in this document yet because the source CSV has not been supplied in this chat and the pipeline has not been run against it.
-
 After running the project locally, use the generated files under outputs/ to document:
 
 - the selected number of clusters and silhouette score;
