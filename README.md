@@ -60,6 +60,6 @@ Outputs are written to `outputs/`, which is excluded from version control.
 
 Pandas-based cleaning and feature engineering, StandardScaler, K-Means clustering with silhouette-score comparison, cluster profiling, and Matplotlib/Seaborn visualisations.
 
-## Interpretation
+## Using the segments
 
-Cluster IDs are labels, not rankings. Give each segment a business-friendly name only after reviewing the actual profile results. Clustering describes patterns in this dataset; it does not prove why a customer behaves a certain way.
+Give each cluster a business-friendly name after reviewing its profile. Connect proposed actions to the observed spending, recency, purchase-channel, and campaign-response patterns.
