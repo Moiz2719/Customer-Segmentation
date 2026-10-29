@@ -23,4 +23,4 @@ Generic marketing messages may not work equally well for all customers. A busine
 
 ## Scope
 
-This is a descriptive segmentation exercise using the fields available in the selected marketing dataset. Results should be interpreted as patterns in the observed sample, not as proof of future customer behaviour.
+Use the resulting customer profiles to guide marketing hypotheses, targeting ideas, and future engagement analysis.
